@@ -1,7 +1,7 @@
 # <a href="" target="_blank">My Portfolio Website</a>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Angular97/My-Portfolio)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://people.umass.edu/avsingh)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)]()
 [![Author](https://img.shields.io/badge/Author-Arshu%20Gupta-blue.svg)](https://www.linkedin.com/in/arshu-gupta/)
 
 
