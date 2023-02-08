@@ -1,4 +1,4 @@
-# <a href="https://people.umass.edu/avsingh" target="_blank">My Portfolio Website</a>
+# <a href="https://angular97.github.io/My-Portfolio/" target="_blank">My Portfolio Website</a>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Angular97/My-Portfolio)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://people.umass.edu/avsingh)
