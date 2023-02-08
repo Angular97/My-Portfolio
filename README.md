@@ -1,7 +1,7 @@
-# <a href="" target="_blank">My Portfolio Website</a>
+# <a href="https://lovely-heliotrope-6d14bc.netlify.app/" target="_blank">My Portfolio Website</a>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Angular97/My-Portfolio)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)]()
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://lovely-heliotrope-6d14bc.netlify.app/)
 [![Author](https://img.shields.io/badge/Author-Arshu%20Gupta-blue.svg)](https://www.linkedin.com/in/arshu-gupta/)
 
 
