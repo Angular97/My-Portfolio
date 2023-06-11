@@ -1,17 +1,36 @@
-<<<<<<< HEAD
-# My-Portfolio
-I developed and designed a website using HTML,CSS,Bootstrap, javascript hosted on Github Pages,to showcase my web presence, story, work experience, education, projects, and achievements in an interactive and visually-appealing format.
-=======
-# <a href="https://people.umass.edu/avsingh" target="_blank">My Alternate Portfolio Website</a>
+<h1 align="center">
+       ✨  My Portfolio  ✨
+</h1>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://people.umass.edu/avsingh)
-[![Author](https://img.shields.io/badge/Author-Aditya%20Vikram%20Singh-blue.svg)](https://www.linkedin.com/in/AVS1508/)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-13%20June%202021-yellow.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/commit/master)
+<div align="center">
+
+![Badge](https://img.shields.io/badge/HTML-blue) ![Badge](https://img.shields.io/badge/CSS-orange) ![Badge](https://img.shields.io/badge/-JS%20-blue) 
+![Badge](https://img.shields.io/badge/Version-2.0-green) 
+ 
+ </div>
+<div align="center">
+I developed and designed a website using HTML,CSS,Bootstrap, javascript hosted on Github Pages,to showcase my web presence, story, work experience, education, projects, and achievements in an interactive and visually-appealing format.
+
+</div>
+
+<br />
+
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Angular97)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://arshu-portfolio.netlify.app/)
+[![Author](https://img.shields.io/badge/Author-Arshu%20Gupta-blue.svg)](https://www.linkedin.com/in/arshu-gupta/)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20June%202023-yellow.svg)](https://github.com/Angular97/My-Portfolio)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3cb4184a-33d8-459b-b65f-4bf4a6b00a49/deploy-status)](https://app.netlify.com/sites/arshu-portfolio/deploys)
+
+## Tech Stack :  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+- **Frontend:** HTML,CSS,JavaScript
+- **Version Control:** Git and GitHub
+- **Hosting:** Github
+- **Code Editor and tools**: VS Code
+
+ <br />
 
  <p align="justify">This website serves as an online portfolio to showcase my web presence, résumé, story, & featured projects with a Particle.js aligned theme. It was generated using using Jekyll, Sass, and Gulp.js.</p>
+ 
+Please hit me up at arshugupta62@gmail.com if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
 
-![My Alternate Portfolio Website](https://raw.githubusercontent.com/AVS1508/My-Alternate-Portfolio-Website/master/My-Alternate-Portfolio-Website.jpg)
-
-Please hit me up at avsingh@umass.edu if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
->>>>>>> 7da44cb (Intial Commit)
